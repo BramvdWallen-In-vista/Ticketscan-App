@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ry5v60oBEAIwiFMbb+gzCe7TtRCVzYj9uvuCN+ut6Tc=",
+  "Source": "Ticketscan-Web-API",
+  "BasePath": "_content/Ticketscan-Web-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
